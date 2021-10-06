@@ -4,6 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
+    "serve": "webpack --config webpack.config.js --watch",
     "build": "webpack --config webpack.config.js"
   },
   "author": "Ali Bahaari",
